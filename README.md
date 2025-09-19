@@ -23,19 +23,14 @@ python -m pip install cmake dlib-bin opencv-python matplotlib
 
 🔧 Parâmetros de Funcionamento
 
-O sistema compara vetores faciais para identificar usuários.
-Caso a distância entre vetores seja menor que 0.6, o usuário é considerado reconhecido.
-
-Tecla espaço → permite cadastrar um novo usuário.
-
-Reconhecimento bem-sucedido → exibe a tela de boas-vindas da aplicação.
+1. O sistema compara vetores faciais para identificar usuários.
+2. Caso a distância entre vetores seja menor que 0.6, o usuário é considerado reconhecido.
+3. Tecla espaço → permite cadastrar um novo usuário.
+4. Reconhecimento bem-sucedido → exibe a tela de boas-vindas da aplicação.
 
 ⚖️ Nota Ética
 
-O uso de dados faciais envolve questões sérias de privacidade e segurança.
-
-Este projeto é apenas para fins acadêmicos e de aprendizado.
-
-Os dados faciais são armazenados localmente e não devem ser compartilhados sem o consentimento explícito dos usuários.
-
-Qualquer uso em ambiente real deve seguir normas da LGPD (Lei Geral de Proteção de Dados) e outras legislações aplicáveis.
+1. O uso de dados faciais envolve questões sérias de privacidade e segurança.
+2. Este projeto é apenas para fins acadêmicos e de aprendizado.
+3. Os dados faciais são armazenados localmente e não devem ser compartilhados sem o consentimento explícito dos usuários.
+4. Qualquer uso em ambiente real deve seguir normas da LGPD (Lei Geral de Proteção de Dados) e outras legislações aplicáveis.
